@@ -5,3 +5,4 @@
 - [Vaughan Logan](https://github.com/vlogan1)
 - [J Semerly](https://github.com/jsemerly)
 - [Carlos Alvarado](https://github.com/calvarado2)
+- [John McArthur](https://jmcarthur24.github.io)
