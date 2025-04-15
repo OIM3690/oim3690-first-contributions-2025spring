@@ -4,3 +4,4 @@
 - [OIM3690](https://github.com/OIM3690)
 - [Vaughan Logan](https://github.com/vlogan1)
 - [J Semerly](https://github.com/jsemerly)
+- [Carlos Alvarado](https://github.com/calvarado2)
