@@ -7,3 +7,5 @@
 - [Carlos Alvarado](https://github.com/calvarado2)
 - [John McArthur](https://jmcarthur24.github.io)
 - [Andrew Priest](https://github.com/apriest143)
+- [Vaughan Logan](https://github.com/vlogan1)
+- [Owen Stephens](https://github.com/ostephens55)
